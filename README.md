@@ -208,15 +208,14 @@ python scripts/load_bigquery.py
 
 ##  Dashboard Preview
 
+## Urban Mobility Dashboard
 
-##  Urban Mobility Dashboard
-
-![Dashboard](images/Urban Mobility Dashboard.png)
-
+![Dashboard](images/Urban%20Mobility%20Dashboard.png)
 
 ---
+
 ## Author
 
-Matthew Lawrence L \n
-Aspiring Data Analyst \| Data Engineer \| Data Scientist
+Matthew Lawrence L  
+Aspiring Data Analyst | Data Engineer | Data Scientist
 
