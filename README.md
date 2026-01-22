@@ -138,7 +138,7 @@ sql/analytics_views.sql
 ```
 
 ---
-### Step 5 — Load into BigQuery (Optional Cloud Layer)
+### Step 5 — Load into BigQuery 
 - Loads Parquet fact table into BigQuery  
 - Uses Python BigQuery client  
 
@@ -189,7 +189,7 @@ python scripts/transform_clean.py
 python scripts/load_mssql.py
 ```
 
-(Optional) Load into BigQuery:
+Load into BigQuery:
 
 ```bash
 python scripts/load_bigquery.py
@@ -217,6 +217,6 @@ python scripts/load_bigquery.py
 ---
 ## Author
 
-Matthew Lawrence L
+Matthew Lawrence L \n
 Aspiring Data Analyst \| Data Engineer \| Data Scientist
 
