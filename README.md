@@ -1,4 +1,4 @@
- 
+
 # Real-Time Urban Mobility Analytics Platform
 
 ## Project Overview
@@ -219,3 +219,4 @@ python scripts/load_bigquery.py
 
 Matthew Lawrence L
 Aspiring Data Analyst \| Data Engineer \| Data Scientist
+
