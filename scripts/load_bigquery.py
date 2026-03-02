@@ -58,7 +58,7 @@ for attempt in range(1, max_retries + 1):
         print("Rows loaded:", len(df))
         break
     except Exception as e:
-        print(f"⚠ Attempt {attempt} failed:", e)
+        print(f" Attempt {attempt} failed:", e)
         if attempt == max_retries:
             raise
         print("Retrying in 10 seconds...")
