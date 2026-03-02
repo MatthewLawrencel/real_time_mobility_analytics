@@ -14,7 +14,7 @@ cities = cfg["cities"]
 records = []
 
 # ---- CONFIG ----
-DAYS_BACK = 10        # 10 days × 24 hrs × 7 cities ≈ 1680 rows
+DAYS_BACK = 10        
 SLEEP_BETWEEN_CALLS = 1.2
 MAX_RETRIES = 3
 
