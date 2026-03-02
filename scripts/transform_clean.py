@@ -7,7 +7,7 @@ weather_path = os.path.join(BASE_DIR, "data", "raw", "weather.csv")
 city_path = os.path.join(BASE_DIR, "data", "raw", "city_conditions.csv")
 
 if not os.path.exists(weather_path):
-    raise SystemExit("❌ Missing weather.csv. Run fetch_weather.py first.")
+    raise SystemExit(" Missing weather.csv. Run fetch_weather.py first.")
 
 if not os.path.exists(city_path):
     raise SystemExit("Missing city_conditions.csv. Run fetch_city_conditions.py first.")
